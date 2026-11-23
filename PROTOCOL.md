@@ -30,6 +30,16 @@ Rater A does not build the tool. With raters walled off from tool development, r
 ### Rater B
 - Rater B follows the same two passes on their 81 items, so κ can be reported for both report-only and code-verified labels.
 
+## How labels are produced (rater A)
+
+Decided by rater A on 2026-11-23, under the author's go-ahead.
+
+- Claude (AI assistant) goes through every item one at a time, proposes a label, and argues for it with quotes from the report (and from the code for FULL items, in Pass 2).
+- Rater A challenges, confirms or overrides. The final label is rater A's call after discussion.
+- Each item's discussion log is kept in `discussion/<item_id>.md`.
+- The paper's methods section must say "AI-proposed, rater-adjudicated" for rater A's labels.
+- Code: FULL items use the pinned `repo`/`vuln_commit`/`fix_commit`. Pass 1 (report only) is written down before the code is opened.
+
 ## What to report in the paper
 - κ on Pass 1, and κ on Pass 2 for overlapping FULL items.
 - How many FULL labels flipped between Pass 1 and Pass 2, and in which direction.

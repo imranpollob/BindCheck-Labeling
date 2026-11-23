@@ -1,0 +1,170 @@
+{
+ "https://audits.sherlock.xyz/contests/207": {
+  "file": "82a2c690dadc",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 49760
+ },
+ "https://audits.sherlock.xyz/contests/967": {
+  "file": "2d93c60cf535",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 51731
+ },
+ "https://certificate.quantstamp.com/full/datachain-lcp-zk-dcap/15bac7cd-3b90-47c7-a25e-b0c3214c6630/index.html": {
+  "file": "c7ea05e2d2a6",
+  "http": "200 text/html",
+  "status": "ok",
+  "bytes": 3636
+ },
+ "https://diligence.security/audits/2023/06/linea-message-service/": {
+  "file": "fac43fc8014f",
+  "http": "403 text/html; charset=UTF-8",
+  "status": "fail",
+  "bytes": 5551
+ },
+ "https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md": {
+  "file": "a5fd397cf658",
+  "http": "200 text/plain; charset=utf-8",
+  "status": "ok",
+  "bytes": 126735
+ },
+ "https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-etrapay-audit-jan25%28Final%29.pdf": {
+  "file": "8f83de792499",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 13187756
+ },
+ "https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf": {
+  "file": "1997dfdf6ce0",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 3207585
+ },
+ "https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0555_SURGE_WITH_TAIKO.pdf": {
+  "file": "0411bc8f3969",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 217350
+ },
+ "https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf": {
+  "file": "a774c022cf2f",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 830237
+ },
+ "https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nocturne%20-%20Zellic%20Audit%20Report.pdf": {
+  "file": "04c92cc7a0c6",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 1718808
+ },
+ "https://github.com/anon-aadhaar/anon-aadhaar/blob/main/audits/AnonAadhaar_audit_bbdfd9d.pdf": {
+  "file": "277eec39420f",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 287524
+ },
+ "https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-04-scroll-4844-blob-securityreview.pdf": {
+  "file": "e47661767940",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 747926
+ },
+ "https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf": {
+  "file": "0e3c4d1051ab",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 2332461
+ },
+ "https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/hashcloak-maci.pdf": {
+  "file": "d4b50daf64bd",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 127613
+ },
+ "https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/leastauthority-zkorpu.pdf": {
+  "file": "a0847753c863",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 387513
+ },
+ "https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/veridise-panther-2.pdf": {
+  "file": "9174b95e9c6d",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 359429
+ },
+ "https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/veridise-panther.pdf": {
+  "file": "c48d74ac5551",
+  "http": "200 application/octet-stream",
+  "status": "ok",
+  "bytes": 879605
+ },
+ "https://osec.io/reports/4475c356-b458-420c-937a-aa4340b5fe1b": {
+  "file": "a7bcbec11aee",
+  "http": "200 application/pdf",
+  "status": "ok",
+  "bytes": 1003233
+ },
+ "https://reports.zksecurity.xyz/reports/aleph-zero-shielder/": {
+  "file": "93ba249e10b3",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 86614
+ },
+ "https://reports.zksecurity.xyz/reports/celo-self-audit-2/": {
+  "file": "89a4c2f78dd6",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 91413
+ },
+ "https://veridise.com/audits-archive/company/arianee/full-privacy-extension-zk-circuits-2024-07-17/": {
+  "file": "eee359176933",
+  "http": "200 text/html; charset=UTF-8",
+  "status": "ok",
+  "bytes": 292718
+ },
+ "https://veridise.com/audits-archive/company/boundless/marketplace-2026-06-24/": {
+  "file": "cd8b89e42037",
+  "http": "200 text/html; charset=UTF-8",
+  "status": "ok",
+  "bytes": 293101
+ },
+ "https://veridise.com/audits-archive/company/panther-protocol/panther-protocol-2025-04-25/": {
+  "file": "d23ef6b331c2",
+  "http": "200 text/html; charset=UTF-8",
+  "status": "ok",
+  "bytes": 292367
+ },
+ "https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/": {
+  "file": "d038faa62b8b",
+  "http": "200 text/html; charset=UTF-8",
+  "status": "ok",
+  "bytes": 292989
+ },
+ "https://veridise.com/audits-archive/company/vlayer/vlayer-2025-05-12/": {
+  "file": "9da9fe5015b9",
+  "http": "200 text/html; charset=UTF-8",
+  "status": "ok",
+  "bytes": 292762
+ },
+ "https://www.openzeppelin.com/news/oxorio-samm-module-audit-1": {
+  "file": "d7e258f8d69f",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 349579
+ },
+ "https://www.openzeppelin.com/news/sunnyside-labs-privacyboost-audit": {
+  "file": "fa242d6121f2",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 536284
+ },
+ "https://www.openzeppelin.com/news/taiko-shasta-protocol-audit": {
+  "file": "f7ddd689ee83",
+  "http": "200 text/html; charset=utf-8",
+  "status": "ok",
+  "bytes": 616073
+ }
+}
