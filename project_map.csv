@@ -1,0 +1,265 @@
+order,family,item_id,tier,auditor,report_title,report_url
+1,Oxorio SAMM,L001,FULL,OpenZeppelin,Oxorio SAMM Module Audit,https://www.openzeppelin.com/news/oxorio-samm-module-audit-1
+1,Oxorio SAMM,L084,LIGHT,OpenZeppelin,Oxorio SAMM Module Audit,https://www.openzeppelin.com/news/oxorio-samm-module-audit-1
+2,Taiko / Surge,L002,FULL,Nethermind Security,NM_0555_SURGE_WITH_TAIKO,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0555_SURGE_WITH_TAIKO.pdf
+2,Taiko / Surge,L041,FULL,Nethermind Security,NM_0555_SURGE_WITH_TAIKO,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0555_SURGE_WITH_TAIKO.pdf
+2,Taiko / Surge,L051,FULL,Nethermind Security,NM_0555_SURGE_WITH_TAIKO,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0555_SURGE_WITH_TAIKO.pdf
+2,Taiko / Surge,L019,FULL,OpenZeppelin,Taiko Shasta Protocol Audit,https://www.openzeppelin.com/news/taiko-shasta-protocol-audit
+2,Taiko / Surge,L025,FULL,OpenZeppelin,Taiko Shasta Protocol Audit,https://www.openzeppelin.com/news/taiko-shasta-protocol-audit
+3,Panther,L011,FULL,Veridise,Panther Protocol follow-up audit,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/veridise-panther-2.pdf
+3,Panther,L012,FULL,Veridise,Panther Protocol audit,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/veridise-panther.pdf
+3,Panther,L029,FULL,Veridise,Panther Protocol audit,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/veridise-panther.pdf
+3,Panther,L038,FULL,Veridise,Panther: Panther Protocol audit report,https://veridise.com/audits-archive/company/panther-protocol/panther-protocol-2025-04-25/
+3,Panther,L071,LIGHT,Veridise,Panther: Panther Protocol audit report,https://veridise.com/audits-archive/company/panther-protocol/panther-protocol-2025-04-25/
+3,Panther,L105,LIGHT,Veridise,Panther: Panther Protocol audit report,https://veridise.com/audits-archive/company/panther-protocol/panther-protocol-2025-04-25/
+4,"SP1 apps (Contract Call, Helios)",L008,FULL,Veridise,Succinct: SP1 Call Contract audit report,https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/
+4,"SP1 apps (Contract Call, Helios)",L009,FULL,Veridise,Succinct: SP1 Call Contract audit report,https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/
+4,"SP1 apps (Contract Call, Helios)",L032,FULL,Veridise,Succinct: SP1 Call Contract audit report,https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/
+4,"SP1 apps (Contract Call, Helios)",L044,FULL,Veridise,Succinct: SP1 Call Contract audit report,https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/
+4,"SP1 apps (Contract Call, Helios)",L104,LIGHT,Veridise,Succinct: SP1 Call Contract audit report,https://veridise.com/audits-archive/company/succinct/sp1-call-contract-2025-07-02/
+4,"SP1 apps (Contract Call, Helios)",L076,LIGHT,OpenZeppelin,SP1 Helios Audit,https://www.openzeppelin.com/news/sp1-helios-audit
+5,vlayer,L003,FULL,Veridise,vlayer audit report,https://veridise.com/audits-archive/company/vlayer/vlayer-2025-05-12/
+5,vlayer,L030,FULL,Veridise,vlayer audit report,https://veridise.com/audits-archive/company/vlayer/vlayer-2025-05-12/
+5,vlayer,L046,FULL,Veridise,vlayer audit report,https://veridise.com/audits-archive/company/vlayer/vlayer-2025-05-12/
+5,vlayer,L050,FULL,Veridise,vlayer audit report,https://veridise.com/audits-archive/company/vlayer/vlayer-2025-05-12/
+6,RISC Zero / Boundless,L249,PSS,Hexens,RISC Zero Crypto SCs Audit — May 2024,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/RISC-Zero-Crypto-SCs-audit-may24%28Public%29.pdf
+6,RISC Zero / Boundless,L149,LIGHT,zkSecurity,Audit of RiscZero Helios,https://reports.zksecurity.xyz/reports/risc0-helios/
+6,RISC Zero / Boundless,L172,LIGHT,zkSecurity,Audit of RiscZero Helios,https://reports.zksecurity.xyz/reports/risc0-helios/
+6,RISC Zero / Boundless,L179,LIGHT,Veridise,Boundless: Kailua audit report,https://veridise.com/audits-archive/company/boundless/kailua-2025-11-04/
+6,RISC Zero / Boundless,L010,FULL,Veridise,Boundless: Marketplace audit report,https://veridise.com/audits-archive/company/boundless/marketplace-2026-06-24/
+6,RISC Zero / Boundless,L031,FULL,Veridise,Boundless: Marketplace audit report,https://veridise.com/audits-archive/company/boundless/marketplace-2026-06-24/
+6,RISC Zero / Boundless,L042,FULL,Veridise,Boundless: Marketplace audit report,https://veridise.com/audits-archive/company/boundless/marketplace-2026-06-24/
+6,RISC Zero / Boundless,L168,LIGHT,Veridise,RiscZero: Boundless audit report,https://veridise.com/audits-archive/company/risc-zero/boundless-2025-04-04/
+6,RISC Zero / Boundless,L180,LIGHT,Veridise,RiscZero: Boundless audit report,https://veridise.com/audits-archive/company/risc-zero/boundless-2025-04-04/
+6,RISC Zero / Boundless,L193,LIGHT,Veridise,RiscZero: Boundless audit report,https://veridise.com/audits-archive/company/risc-zero/boundless-2025-04-04/
+6,RISC Zero / Boundless,L230,PSS,Veridise,RiscZero: Boundless audit report,https://veridise.com/audits-archive/company/risc-zero/boundless-2025-04-04/
+6,RISC Zero / Boundless,L089,LIGHT,Veridise,RiscZero: Kailua audit report,https://veridise.com/audits-archive/company/risc-zero/kailua-2025-02-18/
+6,RISC Zero / Boundless,L119,LIGHT,Veridise,RiscZero: Kailua audit report,https://veridise.com/audits-archive/company/risc-zero/kailua-2025-02-18/
+6,RISC Zero / Boundless,L096,LIGHT,Veridise,RiscZero: Steel audit report,https://veridise.com/audits-archive/company/risc-zero/steel-2024-10-04/
+6,RISC Zero / Boundless,L152,LIGHT,Veridise,RiscZero: Steel audit report,https://veridise.com/audits-archive/company/risc-zero/steel-2024-10-04/
+7,Ava Labs EncryptedERC,L055,LIGHT,Hexens,AvaCloud Circuits Audit — Apr 2025,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-circuits-audit-apr25%28Final%29.pdf
+7,Ava Labs EncryptedERC,L190,LIGHT,Hexens,AvaCloud Circuits Audit — Apr 2025,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-circuits-audit-apr25%28Final%29.pdf
+7,Ava Labs EncryptedERC,L017,FULL,Hexens,AvaCloud EtraPay Audit,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-etrapay-audit-jan25%28Final%29.pdf
+7,Ava Labs EncryptedERC,L034,FULL,Hexens,AvaCloud EtraPay Audit,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-etrapay-audit-jan25%28Final%29.pdf
+7,Ava Labs EncryptedERC,L036,FULL,Hexens,AvaCloud EtraPay Audit,https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/avacloud-etrapay-audit-jan25%28Final%29.pdf
+8,EZKL,L013,FULL,Trail of Bits,2025-03-zkonduit-ezkl-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+8,EZKL,L039,FULL,Trail of Bits,2025-03-zkonduit-ezkl-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+8,EZKL,L040,FULL,Trail of Bits,2025-03-zkonduit-ezkl-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+8,EZKL,L123,LIGHT,Trail of Bits,2025-03-zkonduit-ezkl-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+8,EZKL,L173,LIGHT,Trail of Bits,2025-03-zkonduit-ezkl-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-03-zkonduit-ezkl-securityreview.pdf
+9,Zkopru,L004,FULL,Least Authority,Zkopru zk-SNARK Circuits + Smart Contracts,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/leastauthority-zkorpu.pdf
+9,Zkopru,L006,FULL,Least Authority,Zkopru zk-SNARK Circuits + Smart Contracts,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/leastauthority-zkorpu.pdf
+9,Zkopru,L045,FULL,Least Authority,Zkopru zk-SNARK Circuits + Smart Contracts,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/leastauthority-zkorpu.pdf
+9,Zkopru,L101,LIGHT,Least Authority,Zkopru zk-SNARK Circuits + Smart Contracts,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/leastauthority-zkorpu.pdf
+10,Self,L024,FULL,zkSecurity,"Audit of Self EU ID cards Circuits, OFAC Checks, and Smart Contracts",https://reports.zksecurity.xyz/reports/celo-self-audit-2/
+10,Self,L047,FULL,zkSecurity,"Audit of Self EU ID cards Circuits, OFAC Checks, and Smart Contracts",https://reports.zksecurity.xyz/reports/celo-self-audit-2/
+10,Self,L064,LIGHT,zkSecurity,Audit of Self,https://reports.zksecurity.xyz/reports/celo-self-audit/
+10,Self,L078,LIGHT,zkSecurity,Audit of Self,https://reports.zksecurity.xyz/reports/celo-self-audit/
+11,Anon Aadhaar,L007,FULL,PSE (Privacy & Scaling Explorations),Anon Aadhaar PSE audit,https://github.com/anon-aadhaar/anon-aadhaar/blob/main/audits/AnonAadhaar_audit_bbdfd9d.pdf
+11,Anon Aadhaar,L020,FULL,PSE (Privacy & Scaling Explorations),Anon Aadhaar PSE audit,https://github.com/anon-aadhaar/anon-aadhaar/blob/main/audits/AnonAadhaar_audit_bbdfd9d.pdf
+12,Datachain LCP-zkDCAP,L018,FULL,Quantstamp,Datachain LCP-zkDCAP,https://certificate.quantstamp.com/full/datachain-lcp-zk-dcap/15bac7cd-3b90-47c7-a25e-b0c3214c6630/index.html
+12,Datachain LCP-zkDCAP,L026,FULL,Quantstamp,Datachain LCP-zkDCAP,https://certificate.quantstamp.com/full/datachain-lcp-zk-dcap/15bac7cd-3b90-47c7-a25e-b0c3214c6630/index.html
+13,Nocturne,L015,FULL,Zellic,Nocturne - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nocturne%20-%20Zellic%20Audit%20Report.pdf
+13,Nocturne,L021,FULL,Zellic,Nocturne - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nocturne%20-%20Zellic%20Audit%20Report.pdf
+14,PrivacyBoost,L016,FULL,OpenZeppelin,Sunnyside Labs PrivacyBoost Audit,https://www.openzeppelin.com/news/sunnyside-labs-privacyboost-audit
+14,PrivacyBoost,L037,FULL,OpenZeppelin,Sunnyside Labs PrivacyBoost Audit,https://www.openzeppelin.com/news/sunnyside-labs-privacyboost-audit
+15,Scroll,L241,PSS,Trail of Bits,2023-04-scroll-zkEVM-wave1-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2023-04-scroll-zkEVM-wave1-securityreview.pdf
+15,Scroll,L085,LIGHT,Trail of Bits,2023-09-scroll-zkEVM-wave3-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf
+15,Scroll,L100,LIGHT,Trail of Bits,2023-09-scroll-zkEVM-wave3-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2023-09-scroll-zkEVM-wave3-securityreview.pdf
+15,Scroll,L027,FULL,Trail of Bits,2024-04-scroll-4844-blob-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-04-scroll-4844-blob-securityreview.pdf
+15,Scroll,L141,LIGHT,Trail of Bits,2025-04-scroll-euclid-phase1-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-04-scroll-euclid-phase1-securityreview.pdf
+15,Scroll,L233,PSS,Trail of Bits,2025-04-scroll-euclid-phase1-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-04-scroll-euclid-phase1-securityreview.pdf
+15,Scroll,L074,LIGHT,OpenZeppelin,Scroll Phase 1 Audit,https://www.openzeppelin.com/news/scroll-phase-1-audit
+16,Linea rollup contracts,L005,FULL,Consensys Diligence,linea message service,https://diligence.security/audits/2023/06/linea-message-service/
+16,Linea rollup contracts,L066,LIGHT,Consensys Diligence,linea contracts update,https://diligence.security/audits/2024/01/linea-contracts-update/
+16,Linea rollup contracts,L148,LIGHT,Consensys Diligence,linea contracts update,https://diligence.security/audits/2024/01/linea-contracts-update/
+16,Linea rollup contracts,L189,LIGHT,Consensys Diligence,linea forced transactions,https://diligence.security/audits/2026/02/linea-forced-transactions/
+16,Linea rollup contracts,L086,LIGHT,OpenZeppelin,Linea V2 Audit,https://www.openzeppelin.com/news/linea-v2-audit
+17,Succinct Blobstream,L155,LIGHT,Zellic,Blobstream X - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
+17,Succinct Blobstream,L166,LIGHT,Zellic,Blobstream X - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
+17,Succinct Blobstream,L169,LIGHT,Zellic,Blobstream X - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
+17,Succinct Blobstream,L196,LIGHT,Zellic,Blobstream X - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Blobstream%20X%20-%20Zellic%20Audit%20Report.pdf
+17,Succinct Blobstream,L023,FULL,OtterSec,Succint,https://osec.io/reports/4475c356-b458-420c-937a-aa4340b5fe1b
+18,Aleph Zero Shielder,L035,FULL,zkSecurity,Audit of Aleph Zero Shielder,https://reports.zksecurity.xyz/reports/aleph-zero-shielder/
+18,Aleph Zero Shielder,L207,PSS,zkSecurity,Audit of Aleph Zero Shielder,https://reports.zksecurity.xyz/reports/aleph-zero-shielder/
+19,MACI,L090,LIGHT,PSE Security Team,MACI 1.0: Under-constrained Circuit,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+19,MACI,L048,FULL,HashCloak,MACI audit (Ethereum Foundation Applied ZKPs),https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/hashcloak-maci.pdf
+20,Arianee,L043,FULL,Veridise,Arianee: Full Privacy Extension ZK Circuits audit report,https://veridise.com/audits-archive/company/arianee/full-privacy-extension-zk-circuits-2024-07-17/
+21,IBC Eureka,L022,FULL,Zellic,IBC Eureka - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/IBC%20Eureka%20-%20Zellic%20Audit%20Report.pdf
+22,Lido ZK oracle,L033,FULL,Nethermind Security,NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0530_LIDO_ACCOUNTING_ZK_ORACLE_FINAL.pdf
+23,MorphL2,L014,FULL,Sherlock,MorphL2,https://audits.sherlock.xyz/contests/207
+24,Symbiotic Relay,L028,FULL,Sherlock,Symbiotic Relay,https://audits.sherlock.xyz/contests/967
+25,ZkDrops,L049,FULL,Kobi Gurkan,a16z ZkDrops: Missing Nullifier Range Check,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+26,Hinkal,L057,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L107,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L108,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L144,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L170,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L200,LIGHT,Quantstamp,Hinkal Protocol - 2,https://certificate.quantstamp.com/full/hinkal-protocol-2/be804117-4bf4-4ce0-832e-c1777c8391b9/index.html
+26,Hinkal,L058,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L060,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L063,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L068,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L103,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L116,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L158,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L191,LIGHT,Quantstamp,Hinkal Protocol,https://certificate.quantstamp.com/full/hinkal-protocol/66b9b783-8b42-4a4e-89ed-3ef2a2df5958/index.html
+26,Hinkal,L146,LIGHT,zkSecurity,Audit of Hinkal Protocol Smart Contracts and Circom Circuits,https://reports.zksecurity.xyz/reports/hinkal-audit/
+27,Linea verifier / gnark,L209,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L227,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L231,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L242,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L244,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L258,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L259,PSS,Consensys Diligence,linea plonk verifier,https://diligence.security/audits/2023/06/linea-plonk-verifier/
+27,Linea verifier / gnark,L210,PSS,GitHub advisory database,Plonk verifier KZG multi point verification,https://github.com/advisories/GHSA-7p92-x423-vwj6
+27,Linea verifier / gnark,L134,LIGHT,OpenZeppelin,Linea Plonk Prover (Backend) and Plonk Verifier Audit,https://www.openzeppelin.com/news/linea-prover-audit
+27,Linea verifier / gnark,L248,PSS,OpenZeppelin,Linea Plonk Prover (Backend) and Plonk Verifier Audit,https://www.openzeppelin.com/news/linea-prover-audit
+27,Linea verifier / gnark,L219,PSS,OpenZeppelin,Linea Verifier Audit,https://www.openzeppelin.com/news/linea-verifier-audit-1
+27,Linea verifier / gnark,L234,PSS,OpenZeppelin,Linea Verifier Audit,https://www.openzeppelin.com/news/linea-verifier-audit-1
+28,Singularity,L075,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L083,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L088,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L094,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L102,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L106,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L145,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L150,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L161,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L164,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L194,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+28,Singularity,L199,LIGHT,Zellic,Singularity - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Singularity%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L218,PSS,Code4rena,2025-09-succinct,https://code4rena.com/reports/2025-09-succinct
+29,SP1 zkVM,L205,PSS,Zellic,Hypercube Protocol - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L208,PSS,Zellic,Hypercube Protocol - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L213,PSS,Zellic,Hypercube Protocol - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L224,PSS,Zellic,Hypercube Protocol - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L236,PSS,Zellic,Hypercube Protocol - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Hypercube%20Protocol%20-%20Zellic%20Audit%20Report.pdf
+29,SP1 zkVM,L243,PSS,GitHub advisory database,SP1 V6 Recursion Circuit Row-Count Binding Gap,https://github.com/advisories/GHSA-63x8-x938-vx33
+29,SP1 zkVM,L235,PSS,Succinct / Zellic (GitHub advisory),"Vulnerability in Plonky3, insufficient checks in the Rust verifier and embedded allocators (GHSA-6248-228x-mmvh)",https://github.com/succinctlabs/sp1/security/advisories/GHSA-6248-228x-mmvh
+29,SP1 zkVM,L239,PSS,Succinct / Zellic (GitHub advisory),"Vulnerability in Plonky3, insufficient checks in the Rust verifier and embedded allocators (GHSA-6248-228x-mmvh)",https://github.com/succinctlabs/sp1/security/advisories/GHSA-6248-228x-mmvh
+29,SP1 zkVM,L229,PSS,Succinct (GitHub advisory),Missing verifier checks and fiat-shamir observations (GHSA-c873-wfhp-wx5m),https://github.com/succinctlabs/sp1/security/advisories/GHSA-c873-wfhp-wx5m
+29,SP1 zkVM,L238,PSS,Succinct (GitHub advisory),Missing verifier checks and fiat-shamir observations (GHSA-c873-wfhp-wx5m),https://github.com/succinctlabs/sp1/security/advisories/GHSA-c873-wfhp-wx5m
+30,OpenVM,L225,PSS,Cantina,ZKVM Security Review: OpenVM Competition,https://cantina.xyz/portfolio/a88a1481-b269-4e1f-8ee3-f73afc20095c
+30,OpenVM,L212,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L217,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L246,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L250,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L253,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L256,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+30,OpenVM,L257,PSS,zkSecurity,Audit of OpenVM 2.0,https://reports.zksecurity.xyz/reports/openvm/
+31,Railgun,L062,LIGHT,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L110,LIGHT,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L113,LIGHT,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L159,LIGHT,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L183,LIGHT,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L216,PSS,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L232,PSS,ABDK Consulting,ABDK_Railgun_CircomSolidity_v_2_0.pdf,https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf
+31,Railgun,L143,LIGHT,Zokyo,Railgun_Zokyo_audit_report_Dec21_2022.pdf,https://github.com/zokyo-sec/audit-reports/blob/main/RAILGUN/Railgun_Zokyo_audit_report_Dec21_2022.pdf
+32,"World (ID, PBH, grants)",L192,LIGHT,Nethermind Security,NM-0148_WORLDCOIN_REDEEM_RESERVED_GRANTS_FINAL,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM-0148_WORLDCOIN_REDEEM_RESERVED_GRANTS_FINAL.pdf
+32,"World (ID, PBH, grants)",L136,LIGHT,Nethermind Security,NM-0382_WORLD_NFCID,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM-0382_WORLD_NFCID.pdf
+32,"World (ID, PBH, grants)",L114,LIGHT,Nethermind Security,NM0078_WORLD_FINAL,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0078_WORLD_FINAL.pdf
+32,"World (ID, PBH, grants)",L130,LIGHT,Nethermind Security,NM0078_WORLD_FINAL,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0078_WORLD_FINAL.pdf
+32,"World (ID, PBH, grants)",L118,LIGHT,Nethermind Security,NM0122-FINAL_WORLDCOIN,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0122-FINAL_WORLDCOIN.pdf
+32,"World (ID, PBH, grants)",L160,LIGHT,Nethermind Security,NM0417_FINAL-WORLDCHAIN-PBH,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0417_FINAL-WORLDCHAIN-PBH.pdf
+32,"World (ID, PBH, grants)",L178,LIGHT,Nethermind Security,NM0417_FINAL-WORLDCHAIN-PBH,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0417_FINAL-WORLDCHAIN-PBH.pdf
+33,iden3 / Polygon ID / Privado,L065,LIGHT,Nethermind Security,NM_0379_Final_PRIVADO_iD,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM_0379_Final_PRIVADO_iD.pdf
+33,iden3 / Polygon ID / Privado,L082,LIGHT,Trail of Bits,2024-05-polygonlabs-iden3circuits-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
+33,iden3 / Polygon ID / Privado,L111,LIGHT,Trail of Bits,2024-05-polygonlabs-iden3circuits-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
+33,iden3 / Polygon ID / Privado,L112,LIGHT,Trail of Bits,2024-05-polygonlabs-iden3circuits-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
+33,iden3 / Polygon ID / Privado,L260,PSS,Trail of Bits,2024-05-polygonlabs-iden3circuits-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2024-05-polygonlabs-iden3circuits-securityreview.pdf
+33,iden3 / Polygon ID / Privado,L121,LIGHT,Trail of Bits,iden3 circuits security assessment,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/trailofbits-iden3-circuits.pdf
+33,iden3 / Polygon ID / Privado,L223,PSS,Trail of Bits,iden3 circuits security assessment,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/trailofbits-iden3-circuits.pdf
+34,EdgeSwap,L067,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+34,EdgeSwap,L098,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+34,EdgeSwap,L129,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+34,EdgeSwap,L133,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+34,EdgeSwap,L167,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+34,EdgeSwap,L203,LIGHT,ABDK Consulting,ABDK_EdgeSwap_Circuit_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/edgeswap/ABDK_EdgeSwap_Circuit_v_1_0.pdf
+35,Intmax,L079,LIGHT,ChainSecurity,Intmax 2 ZKP Circuits,https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits/
+35,Intmax,L097,LIGHT,ChainSecurity,Intmax 2 ZKP Circuits,https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits/
+35,Intmax,L153,LIGHT,ChainSecurity,Intmax 2 ZKP Circuits,https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits/
+35,Intmax,L181,LIGHT,ChainSecurity,Intmax 2 ZKP Circuits,https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits/
+35,Intmax,L202,LIGHT,ChainSecurity,Intmax 2 ZKP Circuits,https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits/
+35,Intmax,L127,LIGHT,ChainSecurity,Intmax Plonky2 BN254 &amp; Keccak256,https://www.chainsecurity.com/security-audit/plonky2-bn254-keccak256/
+36,Nebra,L247,PSS,Zellic,Nebra Gnark Support in UPA circuits - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nebra%20Gnark%20Support%20in%20UPA%20circuits%20-%20Zellic%20Audit%20Report.pdf
+36,Nebra,L251,PSS,Zellic,Nebra Universal Proof Aggregator - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nebra%20Universal%20Proof%20Aggregator%20-%20Zellic%20Audit%20Report.pdf
+36,Nebra,L140,LIGHT,ABDK Consulting,ABDK_Nebra_Saturn_Circuits_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/nebra/ABDK_Nebra_Saturn_Circuits_v_1_0.pdf
+36,Nebra,L240,PSS,ABDK Consulting,ABDK_Nebra_Saturn_Circuits_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/nebra/ABDK_Nebra_Saturn_Circuits_v_1_0.pdf
+36,Nebra,L157,LIGHT,ABDK Consulting,ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/nebra/ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf
+36,Nebra,L211,PSS,ABDK Consulting,ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/nebra/ABDK_Nebra_SpecAudit_PartI_v_1_0.pdf
+37,Brevis / Pico,L206,PSS,Sherlock,Brevis Pico ZKVM,https://audits.sherlock.xyz/contests/873
+37,Brevis / Pico,L252,PSS,Sherlock,Brevis Pico ZKVM,https://audits.sherlock.xyz/contests/873
+37,Brevis / Pico,L263,PSS,Sherlock,Brevis Pico ZKVM,https://audits.sherlock.xyz/contests/873
+37,Brevis / Pico,L264,PSS,Sherlock,Brevis Pico ZKVM,https://audits.sherlock.xyz/contests/873
+37,Brevis / Pico,L226,PSS,Zellic,Brevis - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Brevis%20-%20Zellic%20Audit%20Report.pdf
+38,ZKSwap,L080,LIGHT,ABDK Consulting,ABDK_ZKSwap_V3_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
+38,ZKSwap,L117,LIGHT,ABDK Consulting,ABDK_ZKSwap_V3_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
+38,ZKSwap,L138,LIGHT,ABDK Consulting,ABDK_ZKSwap_V3_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
+38,ZKSwap,L151,LIGHT,ABDK Consulting,ABDK_ZKSwap_V3_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
+38,ZKSwap,L188,LIGHT,ABDK Consulting,ABDK_ZKSwap_V3_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf
+39,Aztec,L125,LIGHT,Cantina Reviews,Aztec: Hatch,https://cantina.xyz/portfolio/25bf31ce-e541-4afb-a8e3-8f35f54b4070
+39,Aztec,L128,LIGHT,Aztec Team,Aztec 2.0: Missing Bit Length Check / Nondeterministic Nullifier,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+39,Aztec,L255,PSS,Nguyen Thoi Minh Quan,Aztec Plonk Verifier: 0 Bug,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+39,Aztec,L154,LIGHT,Trail of Bits,aztec,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/aztec.pdf
+40,Lighter,L222,PSS,ZKSecurity,Audit of Lighter's zkLighter Circuits,https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/zksecurity-zklighter.pdf
+40,Lighter,L081,LIGHT,zkSecurity,Audit of Lighter's Exit Hatch,https://reports.zksecurity.xyz/reports/zklighter-desertexit/
+40,Lighter,L054,LIGHT,zkSecurity,Audit of Lighter's Wrapper Circuits,https://reports.zksecurity.xyz/reports/zklighter-wrapper/
+40,Lighter,L115,LIGHT,zkSecurity,Audit of Lighter's Wrapper Circuits,https://reports.zksecurity.xyz/reports/zklighter-wrapper/
+41,Malda,L195,LIGHT,Veridise,Malda: Lending audit report,https://veridise.com/audits-archive/company/malda/malda-lending-2025-05-20/
+41,Malda,L072,LIGHT,Veridise,Malda: zk-coprocessor audit report,https://veridise.com/audits-archive/company/malda/malda-zk-coprocessor-2025-05-20/
+41,Malda,L091,LIGHT,Veridise,Malda: zk-coprocessor audit report,https://veridise.com/audits-archive/company/malda/malda-zk-coprocessor-2025-05-20/
+41,Malda,L182,LIGHT,Veridise,Malda: zk-coprocessor audit report,https://veridise.com/audits-archive/company/malda/malda-zk-coprocessor-2025-05-20/
+42,Nori Bridge,L186,LIGHT,Zellic,Nori Bridge - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nori%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+42,Nori Bridge,L204,PSS,Zellic,Nori Bridge - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nori%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+42,Nori Bridge,L215,PSS,Zellic,Nori Bridge - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nori%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+42,Nori Bridge,L261,PSS,Zellic,Nori Bridge - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Nori%20Bridge%20-%20Zellic%20Audit%20Report.pdf
+43,Renegade,L135,LIGHT,zkSecurity,Audit of Renegade's Atomic Settlement Feature,https://reports.zksecurity.xyz/reports/renegade-atomic-settlement/
+43,Renegade,L069,LIGHT,zkSecurity,Audit of Renegade's Circuits and Smart Contracts,https://reports.zksecurity.xyz/reports/renegade/
+43,Renegade,L126,LIGHT,zkSecurity,Audit of Renegade's Circuits and Smart Contracts,https://reports.zksecurity.xyz/reports/renegade/
+43,Renegade,L220,PSS,zkSecurity,Audit of Renegade's Circuits and Smart Contracts,https://reports.zksecurity.xyz/reports/renegade/
+44,Succinct Telepathy,L184,LIGHT,Zellic,Succinct Telepathy - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Succinct%20Telepathy%20-%20Zellic%20Audit%20Report.pdf
+44,Succinct Telepathy,L070,LIGHT,Trail of Bits,2023-02-succinct-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2023-02-succinct-securityreview.pdf
+44,Succinct Telepathy,L156,LIGHT,Trail of Bits,2023-02-succinct-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2023-02-succinct-securityreview.pdf
+44,Succinct Telepathy,L077,LIGHT,Veridise,Succinct audit report,https://veridise.com/audits-archive/company/succinct/succinct-labs-telepathy-2023-03-11/
+45,Tornado Cash,L087,LIGHT,Kobi Gurkan,MiMC Hash: Assigned but not Constrained,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+45,Tornado Cash,L142,LIGHT,Kobi Gurkan,MiMC Hash: Assigned but not Constrained,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+45,Tornado Cash,L163,LIGHT,ABDK Consulting,TornadoCash_anonymity_mining_first_audit_ABDK.pdf,https://github.com/abdk-consulting/audits/blob/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf
+45,Tornado Cash,L132,LIGHT,ABDK Consulting,Tornado_cryptographic_review.pdf,https://github.com/abdk-consulting/audits/blob/main/tornado/Tornado_cryptographic_review.pdf
+46,ZK Email,L201,LIGHT,Matter Labs Audits,ZK Email: under-constrained circuit leads to email address spoofing,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+46,ZK Email,L171,LIGHT,Matter Labs,"ZKEmail Security Review (email-recovery, zk-email-verify, zk-regex, ether-email-auth)",https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/matterlabs-zkemail.pdf
+46,ZK Email,L187,LIGHT,Matter Labs,"ZKEmail Security Review (email-recovery, zk-email-verify, zk-regex, ether-email-auth)",https://github.com/zksecurity/zkbugs/blob/212cc500b7cf1a2221d3e42ff47baff453afd070/reports/documents/matterlabs-zkemail.pdf
+46,ZK Email,L197,LIGHT,Veridise,Mach34: zkemail.nr audit report,https://veridise.com/audits-archive/company/mach34/zkemail-nr-2025-02-25/
+47,ZKsync,L254,PSS,Spearbit Web3,zkSync: snark-wrapper,https://cantina.xyz/portfolio/100de63d-47fe-453a-9504-a6f8d8e3c784
+47,ZKsync,L056,LIGHT,ABDK Consulting,ABDK-ZKSync-Audit-v2-part2.pdf,https://github.com/abdk-consulting/audits/blob/main/matterlabs/ABDK-ZKSync-Audit-v2-part2.pdf
+47,ZKsync,L177,LIGHT,ABDK Consulting,ABDK-ZKSync-Audit-v2-part2.pdf,https://github.com/abdk-consulting/audits/blob/main/matterlabs/ABDK-ZKSync-Audit-v2-part2.pdf
+47,ZKsync,L162,LIGHT,OpenZeppelin,zkSync Layer 1 Audit,https://www.openzeppelin.com/news/zksync-layer-1-audit
+48,Axiom,L059,LIGHT,Spearbit Web3,Smart Contract Audit for Axiom Protocol,https://cantina.xyz/portfolio/2eb62b07-7d10-46b8-b507-a84021d28aac
+48,Axiom,L214,PSS,GitHub advisory database,snark-verifier accepts non-canonical KZG accumulator limb encodings,https://github.com/advisories/GHSA-265x-v3qf-ff6p
+48,Axiom,L237,PSS,GitHub advisory database,snark-verifier: Halo 2 aggregation circuit mishandles point-at-infinity proof elements,https://github.com/advisories/GHSA-x26x-7f4v-cqx7
+49,Data Ownership Protocol,L124,LIGHT,Nethermind Security,NM0393-FINAL_DOP_LABS,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0393-FINAL_DOP_LABS.pdf
+49,Data Ownership Protocol,L174,LIGHT,Nethermind Security,NM0393-FINAL_DOP_LABS,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0393-FINAL_DOP_LABS.pdf
+49,Data Ownership Protocol,L176,LIGHT,Nethermind Security,NM0393-FINAL_DOP_LABS,https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0393-FINAL_DOP_LABS.pdf
+50,EigenDA Hokulea,L131,LIGHT,Veridise,EigenDA: Hokulea audit report,https://veridise.com/audits-archive/company/eigenda/hokulea-2025-10-02/
+50,EigenDA Hokulea,L245,PSS,Veridise,EigenDA: Hokulea audit report,https://veridise.com/audits-archive/company/eigenda/hokulea-2025-10-02/
+51,Mystiko,L073,LIGHT,ABDK Consulting,ABDK_Mystiko_mystikonetwork_v_3_0.pdf,https://github.com/abdk-consulting/audits/blob/main/mystiko/ABDK_Mystiko_mystikonetwork_v_3_0.pdf
+51,Mystiko,L228,PSS,ABDK Consulting,ABDK_Mystiko_mystikonetwork_v_3_0.pdf,https://github.com/abdk-consulting/audits/blob/main/mystiko/ABDK_Mystiko_mystikonetwork_v_3_0.pdf
+52,Semaphore,L122,LIGHT,ABDK Consulting,Audit Report Summary for Semaphore and MicroMix.pdf,https://github.com/abdk-consulting/audits/blob/main/semaphore_and_mixer/Audit%20Report%20Summary%20for%20Semaphore%20and%20MicroMix.pdf
+52,Semaphore,L165,LIGHT,Veridise,Semaphore audit report,https://veridise.com/audits-archive/company/semaphore/semaphore-groups-v3-2023-01-05/
+53,zkLink,L053,LIGHT,ABDK Consulting,ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
+53,zkLink,L137,LIGHT,ABDK Consulting,ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf
+54,Automata DCAP,L093,LIGHT,Trail of Bits,2025-02-automata-dcap-attestation-onchain-pccs-securityreview,https://github.com/trailofbits/publications/blob/e08944909b8fcb747aef40ee294d92b2a9663685/reviews/2025-02-automata-dcap-attestation-onchain-pccs-securityreview.pdf
+55,EY Nightfall,L175,LIGHT,BlockHeader,EY Nightfall: Missing Nullifier Range Check,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+56,Fluent,L185,LIGHT,Veridise,Fluent: Fluent STF audit report,https://veridise.com/audits-archive/company/fluent-labs/fluent-stf-2025-07-03/
+57,Jovay,L147,LIGHT,OpenZeppelin,Jovay Rollup Contracts Audit,https://www.openzeppelin.com/news/jovay-rollup-contracts-audit
+58,Morphose,L095,LIGHT,ABDK Consulting,ABDK_Morphose.pdf,https://github.com/abdk-consulting/audits/blob/main/morphose/ABDK_Morphose.pdf
+59,Polyhedra zk light client,L262,PSS,Zellic,Polyhedra zk light client on LayerZero - Zellic Audit Report,https://github.com/Zellic/publications/blob/bc479398ccf468ba5aff7aa3f47cd5dff7f33764/Polyhedra%20zk%20light%20client%20on%20LayerZero%20-%20Zellic%20Audit%20Report.pdf
+60,Silent Protocol,L061,LIGHT,zkSecurity,Audit of Silent Protocol Smart Contracts,https://reports.zksecurity.xyz/reports/silent/
+61,StarkWare Perpetual,L092,LIGHT,ABDK Consulting,ABDK_Starkware_Perpetual_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_Starkware_Perpetual_v_1_0.pdf
+62,StealthDrop,L052,LIGHT,botdad,0xPARC StealthDrop: Nondeterministic Nullifier,https://github.com/0xPARC/zk-bug-tracker/blob/56a996672fb50486279126c8e12530f2bf933d0b/README.md
+63,Term Structure,L221,PSS,ABDK Consulting,ABDK_TermStructure_Solidity_v_1_0.pdf,https://github.com/abdk-consulting/audits/blob/main/term_structure/ABDK_TermStructure_Solidity_v_1_0.pdf
+64,Unirep,L198,LIGHT,Veridise,Unirep Protocol audit report,https://veridise.com/audits-archive/company/ethereum-pse/unirep-protocol-2023-08-23/
+65,Webb bridge,L109,LIGHT,Veridise,Webb: EVM Bridge audit report,https://veridise.com/audits-archive/company/webb-tools/evm-bridge-2023-09-07/
+66,ZKsync SSO,L139,LIGHT,OpenZeppelin,SSO Account OIDC Recovery Solidity Audit,https://www.openzeppelin.com/news/sso-account-oidc-recovery-solidity-audit
+67,ZeroPool,L120,LIGHT,ABDK Consulting,ABDK_Zeropool_Libzeropool_v3_0.pdf,https://github.com/abdk-consulting/audits/blob/main/zeropool/ABDK_Zeropool_Libzeropool_v3_0.pdf
+68,Zilliqa,L099,LIGHT,Hacken,[SCA] Zilliqa | Ownership Proof,https://hacken.io/audits/zilliqa/sca-zilliqa-zilliqa-ownership-proof-aug2026/
