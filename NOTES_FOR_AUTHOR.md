@@ -5,7 +5,8 @@ Collected while labeling. Details are in `discussion/<item>.md`.
 ## Labeling questions
 1. **GUIDE §3 circuit-internal bugs with on-chain impact.** We label them N and tag `[circuit-soundness]` (14 items so far). Confirm, or tell us to flip them as a group. See PROTOCOL.md.
 2. **P2 wording:** add "starting/prior state not bound to the consumer's stored state" (L076, L149, L166, L048, L014).
-3. **Unconstrained stored output:** P1 (our choice: L066, L023, L169, L196) or OTHER (as in the guide's Payy example)?
+3. **Practical proof-system forgeries** (L234 Linea FS, L085/L233 Scroll aggregation): labeled binding P4 with PSS Y, per §1 + §4 (filter by the PSS column). Theoretical/malleability-only PSS items stay N.
+4. **Unconstrained stored output:** P1 (our choice: L066, L023, L169, L196) or OTHER (as in the guide's Payy example)?
 
 ## Data issues in the sheet (FULL items)
 - **Vuln commit already contains the fix:** L016 (PrivacyBoost repo is a single squashed commit 7b2a018 that already has the low-order key check; fixes 784a19b etc. not public).

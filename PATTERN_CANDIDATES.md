@@ -44,3 +44,8 @@ Recurring not-binding shapes (labels applied consistently):
 - Proof-system / aggregation layer (PSS Y, binding N): L230, L085, L233, L241.
 
 Pass 1 → Pass 2 flips on FULL: L027 (N → Y, after seeing the blob hash is outside the PI). L031 and L046 leaned Y in the report-only notes but the rater set N for both passes.
+
+## Decision: practical proof-system forgeries (rater A, 2026-11-23)
+- A verifier/aggregation flaw that lets a prover forge a meaningful statement is **binding, P4, PSS Y** (GUIDE §1 applied literally; GUIDE §4 says PSS is labeled independently and the author filters later). Items: L234, L085, L233 (+ L209/L259, which are the guide's own P4 list, PSS N).
+- Not binding (PSS Y): theoretical or unsteerable issues and malleability: L230, L241, L219, L258, L244, L210.
+- Contrast with circuit-internal under-constraint (§3 explicitly excludes): stays N + `[circuit-soundness]`.
