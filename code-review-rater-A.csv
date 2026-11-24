@@ -13,3 +13,6 @@ L050,Y,P2,met,met,met,N,"CallAssumptions lacks chainId; ProofVerifierBase checks
 L030,Y,P2,met,met,met,N,"parse_and_verify never compares dns_record.name with From domain",no-fix (no fix_commit in sheet; report cites PR 2079),H,15
 L003,Y,OTHER,met,met,met,N,"Email::try_from body via mailparse; DKIM hashes after CRLFCRLF",no-fix (no fix_commit in sheet; report cites PR 2091),H,15
 L046,N,NA,met,unclear,fails,N,"Verifier journal hash covers all function args; examples have replay guards",no-fix (Open),M,15
+L010,Y,P1,met,met,met,N,"OnChainAssessor binds prover only by ECDSA sig; app proof not bound to prover",Y (14ee8aad commit-reveal),H,20
+L042,Y,P4,met,met,met,N,"_matchSignedSelector accepts any entry of signed class; permissionless instantiate",partial (14ee8aad blocks permissionless assessor classes only),H,20
+L031,N,NA,met,met,fails,N,"fallback to LEGACY_IMPL with its own governed VERIFIER; divergence only by governance action",no-fix (Acknowledged; 14ee8aad does not touch),M,20
