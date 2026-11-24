@@ -12,3 +12,6 @@ Shapes that fit the GUIDE patterns awkwardly. Review after the FULL families (~9
 ## Decision line (agreed with rater A, 2026-11-23)
 - Binding: the consumer acts on something the proof doesn't lock (public nullifier unpinned, caller-supplied value, amount filled in later, program ID unchecked).
 - Not binding: the circuit enforces a rule wrongly, but what the consumer reads is still honestly computed.
+
+## Fail-closed encoding ambiguity (labeled N)
+- L032 (timestamp vs slot collapse), L009 (enum mismatch): look like P5, but the mismatch only causes rejection, never a wrong acceptance. Kept as N.
