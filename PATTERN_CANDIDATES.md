@@ -49,3 +49,9 @@ Pass 1 → Pass 2 flips on FULL: L027 (N → Y, after seeing the blob hash is ou
 - A verifier/aggregation flaw that lets a prover forge a meaningful statement is **binding, P4, PSS Y** (GUIDE §1 applied literally; GUIDE §4 says PSS is labeled independently and the author filters later). Items: L234, L085, L233 (+ L209/L259, which are the guide's own P4 list, PSS N).
 - Not binding (PSS Y): theoretical or unsteerable issues and malleability: L230, L241, L219, L258, L244, L210.
 - Contrast with circuit-internal under-constraint (§3 explicitly excludes): stays N + `[circuit-soundness]`.
+
+## Decision (rater A, 2026-11-24): pass-through vs broken computation
+When an in-circuit gap affects a value the consumer stores, rater A separates two shapes:
+- **Unauthenticated pass-through → binding (usually P1 stored value).** The stored public output is built from witness data that is never checked against the proved source. Examples: L081 (Lighter master_account_index copied into the exit commitment), L077 (Telepathy committee commitment over unchecked y-coordinates).
+- **Broken computation → not binding, `[circuit-soundness]`.** The circuit checks the right data but the arithmetic or gadget is under-constrained, so the prover can prove a false relation. Examples: L070 (Telepathy point doubling), L028, L127/L153 (Intmax BN254 gadgets).
+A reviewer may find this line fine-grained; both shapes carry notes so the author can merge them.
