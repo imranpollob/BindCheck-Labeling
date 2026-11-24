@@ -16,3 +16,6 @@ L046,N,NA,met,unclear,fails,N,"Verifier journal hash covers all function args; e
 L010,Y,P1,met,met,met,N,"OnChainAssessor binds prover only by ECDSA sig; app proof not bound to prover",Y (14ee8aad commit-reveal),H,20
 L042,Y,P4,met,met,met,N,"_matchSignedSelector accepts any entry of signed class; permissionless instantiate",partial (14ee8aad blocks permissionless assessor classes only),H,20
 L031,N,NA,met,met,fails,N,"fallback to LEGACY_IMPL with its own governed VERIFIER; divergence only by governance action",no-fix (Acknowledged; 14ee8aad does not touch),M,20
+L017,Y,P1,met,met,met,N,"Registrar.register binds proven pk to msg.sender; address not in proof",Y (5f3893f adds address/chainid/hash),H,12
+L034,N,NA,met,met,fails,N,"privateMint onlyOwner; mint circuit has no auditor approval, owner can re-prove any amount",Y (afe9213 chainid + nullifier),H,12
+L036,N,NA,met,met,fails,N,"MulWithBasePoint no range check; withdraw AssertIsLessOrEqual vs aliased private balance",Y (1d1a8174 in-circuit range checks),M,20

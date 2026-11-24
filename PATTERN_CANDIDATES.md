@@ -15,3 +15,7 @@ Shapes that fit the GUIDE patterns awkwardly. Review after the FULL families (~9
 
 ## Fail-closed encoding ambiguity (labeled N)
 - L032 (timestamp vs slot collapse), L009 (enum mismatch): look like P5, but the mismatch only causes rejection, never a wrong acceptance. Kept as N.
+
+## Open question for the author: GUIDE §3 "circuit-internal under-constraint"
+- L036 (EncryptedERC scalar aliasing → withdraw more than balance) and L012 (Panther zone check off via offset=15): huge effect, but every value the consumer reads is fixed by the proof; fix is in-circuit. Labeled N.
+- §3 says N only "with no effect on what the consumer is told or acts on". Read literally, these have an effect. Our reading: "told" = a consumer-read value not fixed by the proof. Needs the author's confirmation.
