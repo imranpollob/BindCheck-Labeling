@@ -18,5 +18,5 @@ Collected while labeling. Details are in `discussion/<item>.md`.
 - **Finding ID mismatches:** L010/L031/L042 (report uses V-BLMP, sheet V-BML); L193/L180 (report V-RISC0, sheet V-BML); L249 (sheet SCRI-1 = PDF SCRI-3); L039/L040/L123/L173 finding_title parsed as "Fix Status: Resolved".
 - **Malda finding IDs:** L072/L182 sheet V-MLD-VUL-003/005 = PDF V-MLDZK2-VUL-003/005 (zk-coprocessor V7); L195 sheet V-MLD-VUL-001 = PDF V-MLD2-VUL-001 (lending V6; V-MLD-VUL-001 there is an unrelated liquidation bug).
 - **Duplicate source:** two of the three Panther "reports" are the same PDF.
-- **Duplicate items:** L112 and L121 are the same ToB finding (TOB-IDEN3-1) from the ToB publication and its zkbugs mirror; L260 and L223 likewise (TOB-IDEN3-2). L087 and L142 are the same circomlib MiMC bug (zkbugs #32 and zk-bug-tracker #14). Rater A labeled each pair identically.
+- **Duplicate items:** L112 and L121 are the same ToB finding (TOB-IDEN3-1) from the ToB publication and its zkbugs mirror; L260 and L223 likewise (TOB-IDEN3-2). L171 and L201 are the same zk-regex 0xFF bug (Matter Labs report and zk-bug-tracker #27); L087 and L142 are the same circomlib MiMC bug (zkbugs #32 and zk-bug-tracker #14). Rater A labeled each pair identically.
 - 12+ FULL items have no fix_commit, so they add no fixed-version negatives.
