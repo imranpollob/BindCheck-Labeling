@@ -11,6 +11,7 @@ for r in csv.DictReader(open('sheet-rater-A.labeled.csv', newline='')):
         if r[k] not in ok: errs.append(f'{i}: {k}={r[k]!r}')
     if r['binding'] == 'N' and r['pattern'] != 'NA': errs.append(f'{i}: binding N but pattern {r["pattern"]}')
     if r['binding'] == 'Y' and r['pattern'] == 'NA': errs.append(f'{i}: binding Y but pattern NA')
+    if not r.get('rationale'): errs.append(f'{i}: rationale missing')
     if (r['pattern'] == 'OTHER' or r['binding'] == 'U') and not r['notes']: errs.append(f'{i}: notes required')
     cs = [r['c1_proof_accepted'], r['c2_effect_committed'], r['c3_value_not_fixed']]
     if r['binding'] == 'Y' and 'fails' in cs: errs.append(f'{i}: Y but a criterion fails')
