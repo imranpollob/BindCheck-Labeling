@@ -45,3 +45,9 @@ Decided by rater A on 2026-11-23, under the author's go-ahead.
 - How many FULL labels flipped between Pass 1 and Pass 2, and in which direction.
 - That the FULL ground truth used for evaluation is the Pass 2 (code-verified) label, adjudicated by the author.
 - That 12 of the 51 FULL items have no `fix_commit`, so they add no fixed-version negatives.
+
+## Circuit-soundness tag (rater A, 2026-11-23)
+
+Binding is the core label. When a finding is confidently an in-circuit soundness bug (a missing or wrong constraint on private witnesses, aliasing, a check switched off) and every value the consumer acts on is still fixed by the proof, it is labeled `binding = N`, and its `notes` start with `[circuit-soundness]`. Use the tag only when the circuit mechanism is clear from the report (and the code, for FULL items). It is not used for proof-system bugs (those go in `proof_system_soundness`) or for harmless circuit hygiene (e.g. L190).
+
+This lets the author pull these items out with one filter if circuit soundness bugs that have on-chain impact should later be treated differently. See the open question in PATTERN_CANDIDATES.md.

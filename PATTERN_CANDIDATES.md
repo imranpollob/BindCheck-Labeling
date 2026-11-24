@@ -19,3 +19,4 @@ Shapes that fit the GUIDE patterns awkwardly. Review after the FULL families (~9
 ## Open question for the author: GUIDE §3 "circuit-internal under-constraint"
 - L036 (EncryptedERC scalar aliasing → withdraw more than balance) and L012 (Panther zone check off via offset=15): huge effect, but every value the consumer reads is fixed by the proof; fix is in-circuit. Labeled N.
 - §3 says N only "with no effect on what the consumer is told or acts on". Read literally, these have an effect. Our reading: "told" = a consumer-read value not fixed by the proof. Needs the author's confirmation.
+- Decision (rater A, 2026-11-23): binding stays the core label. Confident in-circuit soundness bugs are N and tagged `[circuit-soundness]` in notes (see PROTOCOL.md). Tagged so far: L004 L012 L029 L036 L047 L055 L064 L078 L101.
