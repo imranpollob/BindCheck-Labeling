@@ -14,7 +14,7 @@ Rater A does not build the tool. With raters walled off from tool development, r
 - Label exactly as GUIDE.md says, from the report alone. No repo, no commits, no diffs.
 - Output: `sheet-rater-A.labeled.csv` (same columns as the original sheet).
 - **Pass 1 is the label of record for κ** and for the LIGHT/PSS characterization.
-- For FULL items, finish and commit Pass 1 for an item **before** opening its code.
+- For FULL items, write Pass 1 to `discussion/<item>.md` **before** opening its code. (From 2026-11-23, Nocturne onward, rater A commits only once labels are final; Pass 1 is still written to disk first and stays above Pass 2 in the file.)
 
 ### Pass 2: code-verified (FULL items only, 51)
 - Open `repo` at `vuln_commit`, and the diff to `fix_commit` where one exists.

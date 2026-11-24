@@ -31,3 +31,5 @@ L007,Y,P5,met,met,met,N,"circuit outputs state,pinCode; contract passes pincode 
 L020,Y,P3,met,met,met,N,"Nullifier = Poseidon(seed, photo hashes); AnonAadhaarVote hasVoted[nullifier]",no-fix (no fix_commit; auditor: no way to avoid),H,12
 L018,N,NA,met,met,fails,N,"validate_pck_cert no KU/BC checks; chain signatures to Intel root enforced",Y (80cc77a),H,10
 L026,N,NA,met,met,fails,N,"CN-only chain matching; signatures to Intel root enforced",Y (309d1e4),H,8
+L015,Y,P1,met,met,met,N,"processBundle passes msg.sender as bundler for gas refund",no-fix (no fix_commit; Flashbots mitigation),H,12
+L021,Y,P4,met,met,met,N,"zero-joinsplit op digest never a public input of any verified proof",Y (50fe52a require joinsplits > 0),H,12
