@@ -40,3 +40,4 @@ L005,N,NA,met,met,fails,N,"ZkEvmV2._finalizeBlocks pays no reward, no msg.sender
 L023,Y,P1,met,met,met,N,"main.rs commits input heights unchecked; commitHeaderRange stores by po.targetBlock",Y (e529c13),H,15
 L035,Y,P1,met,met,met,N,"_deposit/_newAccount PIs lack caller; safeTransferFrom(msg.sender)",Y (719c30e adds msg.sender PI),H,12
 L048,Y,P2,met,met,met,N,"tallyVotes first batch: 0 === currentTallyCommitment, starting tally unconstrained",partial (e61c684/4bc217d circuit only),H,15
+L043,Y,P1,met,met,met,N,"creditVerifier public signals lack spender/intent",Y (5451977 adds pubIntentHash),H,12
