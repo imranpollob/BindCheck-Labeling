@@ -3,10 +3,15 @@
 Collected while labeling. Details are in `discussion/<item>.md`.
 
 ## Labeling questions
-1. **GUIDE §3 circuit-internal bugs with on-chain impact.** We label them N and tag `[circuit-soundness]` (14 items so far). Confirm, or tell us to flip them as a group. See PROTOCOL.md.
+1. **GUIDE §3 circuit-internal bugs with on-chain impact.** We label them N and tag `[circuit-soundness]` (52 items at the end). Confirm, or tell us to flip them as a group. See PROTOCOL.md.
 2. **P2 wording:** add "starting/prior state not bound to the consumer's stored state" (L076, L149, L166, L048, L014).
 3. **Practical proof-system forgeries** (L234 Linea FS, L085/L233 Scroll aggregation): labeled binding P4 with PSS Y, per §1 + §4 (filter by the PSS column). Theoretical/malleability-only PSS items stay N. As of 2026-11-24 (final) there are 16 items with binding = Y and PSS = Y in the Pass 1 sheet (L085 L204 L211 L213 L217 L222 L225 L229 L233 L234 L236 L238 L239 L240 L255 L257); L027 is binding OTHER + PSS Y in Pass 2 only (code-review-rater-A.csv). Suggestion for the paper: report results both with and without these, since a reviewer may argue a proof-system forgery breaks everything rather than binding specifically. Low-confidence calls carry confidence = L and an alternative in notes, so a sensitivity analysis can flip them.
-4. **Unconstrained stored output:** P1 (our choice: L066, L023, L169, L196) or OTHER (as in the guide's Payy example)?
+4. **Unconstrained stored output:** P1 (our choice: L066, L023, L169, L196, L077, L081) or OTHER (as in the guide's Payy example)?
+5. **Pass-through vs broken computation** (PATTERN_CANDIDATES.md): a stored output built from witness data never checked against the proved source is binding (L081, L077); an under-constrained computation over the right data is N + `[circuit-soundness]` (L070, L028, Intmax, Tornado MiMC). Confirm this line.
+6. **U items (5):** L206, L252, L263, L264 (Sherlock Pico write-ups are in a private repo, GUIDE §6 "source unavailable"; titles suggest Y/P4/PSS Y) and L254 (Spearbit snark-wrapper: public input not exposed, but rated Low with no attack; the report can't settle it).
+
+## Final tally (Pass 1 sheet)
+Binding 103 · not binding 156 · U 5. Binding by pattern: OTHER 2, P1 23, P2 23, P3 15, P4 33, P5 7. Confidence: H 83, M 164, L 17.
 
 ## Data issues in the sheet (FULL items)
 - **Vuln commit already contains the fix:** L016 (PrivacyBoost repo is a single squashed commit 7b2a018 that already has the low-order key check; fixes 784a19b etc. not public).
