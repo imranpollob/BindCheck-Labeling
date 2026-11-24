@@ -9,3 +9,7 @@ L011,Y,P1,met,met,met,N,"zSwapV1 swap utxoOutAmount==0 limit check; SwapHandler 
 L012,N,NA,met,met,fails,N,"zoneIdInclusionProver offset=15 skips all checks (private witness)",no-fix (0621e84 not public),H,6
 L029,N,NA,met,met,fails,N,"zSwapV1 L631 period total zeroed",no-fix (54d4d0a not public),H,4
 L038,Y,P3,met,met,met,N,"nullifier public; enabled<==spendPrivKey; PantherPoolV1 isSpent",Y (0082bcf; relies on nullifier>0 guard),H,10
+L050,Y,P2,met,met,met,N,"CallAssumptions lacks chainId; ProofVerifierBase checks prover/selector/block only",no-fix (no fix_commit in sheet; report cites PRs 1891/1950),H,15
+L030,Y,P2,met,met,met,N,"parse_and_verify never compares dns_record.name with From domain",no-fix (no fix_commit in sheet; report cites PR 2079),H,15
+L003,Y,OTHER,met,met,met,N,"Email::try_from body via mailparse; DKIM hashes after CRLFCRLF",no-fix (no fix_commit in sheet; report cites PR 2091),H,15
+L046,N,NA,met,unclear,fails,N,"Verifier journal hash covers all function args; examples have replay guards",no-fix (Open),M,15
