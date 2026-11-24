@@ -1,2 +1,7 @@
 item_id,binding_code,pattern_code,c1_code,c2_code,c3_code,changed_from_pass1,code_evidence,fix_addresses_flaw,confidence_code,minutes_code
 L001,Y,P2,met,met,met,N,"samm-contracts c2d255d SAMM._checkNProofs: isDKIMPublicKeyHashValid(currentProof.domain,...) with domain not in pubSignals; circuit 240b94a has no domain","partial (6eb3eb9 suffix check lacks @ boundary)",H,15
+L041,Y,P1,met,met,met,N,"TaikoInbox L364/L378/L417 bondReceiver=msg.sender; LibPublicInput lacks prover",no-fix (95e7567 does not touch it),H,10
+L019,Y,P4,met,met,met,N,"Risc0Verifier.verifyProof checks isImageTrusted[blockImageId] but verifies only aggregationImageId+journal",Y (d5b904f binds blockImageId into journal),H,10
+L051,N,NA,met,met,fails,N,"lastBlockTimestamp -> BatchInfo -> metaHash in public input",no-fix (acknowledged),H,8
+L002,N,NA,met,met,fails,N,"LibVerifying._tryFinalising picks last ZK+TEE transition; all candidates fully proven",no-fix (acknowledged),H,6
+L025,N,NA,met,met,fails,N,"TransitionRecord derives from proven transition+metadata; explicit finalize skips deadline",Y (a9e9637 removes conflict detection),M,15
