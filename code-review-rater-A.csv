@@ -36,3 +36,4 @@ L021,Y,P4,met,met,met,N,"zero-joinsplit op digest never a public input of any ve
 L016,N,NA,met,met,fails,N,"[circuit-soundness] keys set only via owner-signed register/rotate; vuln_commit 7b2a018 already has isValidPublicKey low-order check",no-fix (vuln_commit already fixed; 784a19b not public),M,15
 L037,N,NA,met,met,fails,N,"registerEpochVK onlyOwner keyed by (T,I,O)",no-fix (Acknowledged),H,8
 L027,Y,OTHER,met,met,met,Y,"batch PI hash(..data_hash||z||y) lacks versioned hash; challenge preimage lacks commitment",Y (5776400 adds versioned hash; not a descendant of vuln),M,30
+L005,N,NA,met,met,fails,N,"ZkEvmV2._finalizeBlocks pays no reward, no msg.sender use",no-fix (no fix_commit),H,15
