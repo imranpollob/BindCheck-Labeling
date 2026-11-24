@@ -5,7 +5,7 @@ Collected while labeling. Details are in `discussion/<item>.md`.
 ## Labeling questions
 1. **GUIDE §3 circuit-internal bugs with on-chain impact.** We label them N and tag `[circuit-soundness]` (14 items so far). Confirm, or tell us to flip them as a group. See PROTOCOL.md.
 2. **P2 wording:** add "starting/prior state not bound to the consumer's stored state" (L076, L149, L166, L048, L014).
-3. **Practical proof-system forgeries** (L234 Linea FS, L085/L233 Scroll aggregation): labeled binding P4 with PSS Y, per §1 + §4 (filter by the PSS column). Theoretical/malleability-only PSS items stay N.
+3. **Practical proof-system forgeries** (L234 Linea FS, L085/L233 Scroll aggregation): labeled binding P4 with PSS Y, per §1 + §4 (filter by the PSS column). Theoretical/malleability-only PSS items stay N. As of 2026-11-24 there are 14 items with binding = Y and PSS = Y (L027 L085 L211 L213 L217 L225 L229 L233 L234 L236 L238 L239 L240 L257). Suggestion for the paper: report results both with and without these, since a reviewer may argue a proof-system forgery breaks everything rather than binding specifically. Low-confidence calls carry confidence = L and an alternative in notes, so a sensitivity analysis can flip them.
 4. **Unconstrained stored output:** P1 (our choice: L066, L023, L169, L196) or OTHER (as in the guide's Payy example)?
 
 ## Data issues in the sheet (FULL items)
