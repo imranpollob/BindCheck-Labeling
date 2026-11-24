@@ -19,3 +19,6 @@ L031,N,NA,met,met,fails,N,"fallback to LEGACY_IMPL with its own governed VERIFIE
 L017,Y,P1,met,met,met,N,"Registrar.register binds proven pk to msg.sender; address not in proof",Y (5f3893f adds address/chainid/hash),H,12
 L034,N,NA,met,met,fails,N,"privateMint onlyOwner; mint circuit has no auditor approval, owner can re-prove any amount",Y (afe9213 chainid + nullifier),H,12
 L036,N,NA,met,met,fails,N,"MulWithBasePoint no range check; withdraw AssertIsLessOrEqual vs aliased private balance",Y (1d1a8174 in-circuit range checks),M,20
+L039,Y,P1,met,unclear,met,N,"attestData seek loop leaves check vacuous when no instance matches",no-fix (no fix_commit in sheet; ezkl-audit-fixes PR#1),H,12
+L040,Y,P5,met,unclear,met,N,"getInstancesCalldata follows calldata offset; verifier fixed offsets",no-fix (no fix_commit in sheet; h2-sol-verifier-audit-fixes PR#1),H,12
+L013,Y,P5,met,unclear,met,N,"toFieldElement mod ORDER with unbounded quantizeData",no-fix (no fix_commit in sheet; ezkl-audit-fixes PR#1),H,10
