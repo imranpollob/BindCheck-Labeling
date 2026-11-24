@@ -29,3 +29,5 @@ L024,Y,P2,met,met,met,N,"configId from userContextData; _getVerificationConfigBy
 L047,N,NA,met,met,fails,N,"[circuit-soundness] smt.circom Num2Bits(254) aliasing; root still checked",Y (22681b1f squash; sheet 99e8eec not public),H,15
 L007,Y,P5,met,met,met,N,"circuit outputs state,pinCode; contract passes pincode in state slot",Y (bbdfd9d reorders circuit outputs),H,10
 L020,Y,P3,met,met,met,N,"Nullifier = Poseidon(seed, photo hashes); AnonAadhaarVote hasVoted[nullifier]",no-fix (no fix_commit; auditor: no way to avoid),H,12
+L018,N,NA,met,met,fails,N,"validate_pck_cert no KU/BC checks; chain signatures to Intel root enforced",Y (80cc77a),H,10
+L026,N,NA,met,met,fails,N,"CN-only chain matching; signatures to Intel root enforced",Y (309d1e4),H,8
