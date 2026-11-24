@@ -38,3 +38,4 @@ L037,N,NA,met,met,fails,N,"registerEpochVK onlyOwner keyed by (T,I,O)",no-fix (A
 L027,Y,OTHER,met,met,met,Y,"batch PI hash(..data_hash||z||y) lacks versioned hash; challenge preimage lacks commitment",Y (5776400 adds versioned hash; not a descendant of vuln),M,30
 L005,N,NA,met,met,fails,N,"ZkEvmV2._finalizeBlocks pays no reward, no msg.sender use",no-fix (no fix_commit),H,15
 L023,Y,P1,met,met,met,N,"main.rs commits input heights unchecked; commitHeaderRange stores by po.targetBlock",Y (e529c13),H,15
+L035,Y,P1,met,met,met,N,"_deposit/_newAccount PIs lack caller; safeTransferFrom(msg.sender)",Y (719c30e adds msg.sender PI),H,12
