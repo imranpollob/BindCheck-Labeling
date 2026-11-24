@@ -27,3 +27,5 @@ L006,N,NA,met,met,fails,N,"on-chain SMT254.fill rejects reused nullifier; gap on
 L045,N,NA,fails,met,fails,N,"validator.ts fnCalls omit validateSNARKCalls; on-chain validateSNARK exists",Y (71c41b2),M,15
 L024,Y,P2,met,met,met,N,"configId from userContextData; _getVerificationConfigById no existence check",Y (fab8b3b range: app getConfigId + ConfigNotSet),H,20
 L047,N,NA,met,met,fails,N,"[circuit-soundness] smt.circom Num2Bits(254) aliasing; root still checked",Y (22681b1f squash; sheet 99e8eec not public),H,15
+L007,Y,P5,met,met,met,N,"circuit outputs state,pinCode; contract passes pincode in state slot",Y (bbdfd9d reorders circuit outputs),H,10
+L020,Y,P3,met,met,met,N,"Nullifier = Poseidon(seed, photo hashes); AnonAadhaarVote hasVoted[nullifier]",no-fix (no fix_commit; auditor: no way to avoid),H,12
