@@ -22,3 +22,6 @@ L036,N,NA,met,met,fails,N,"MulWithBasePoint no range check; withdraw AssertIsLes
 L039,Y,P1,met,unclear,met,N,"attestData seek loop leaves check vacuous when no instance matches",no-fix (no fix_commit in sheet; ezkl-audit-fixes PR#1),H,12
 L040,Y,P5,met,unclear,met,N,"getInstancesCalldata follows calldata offset; verifier fixed offsets",no-fix (no fix_commit in sheet; h2-sol-verifier-audit-fixes PR#1),H,12
 L013,Y,P5,met,unclear,met,N,"toFieldElement mod ORDER with unbounded quantizeData",no-fix (no fix_commit in sheet; ezkl-audit-fixes PR#1),H,10
+L004,N,NA,met,met,fails,N,"zk_transaction.circom zero-sum only over input token addrs",Y (30a1991 in-circuit output loop),H,15
+L006,N,NA,met,met,fails,N,"on-chain SMT254.fill rejects reused nullifier; gap only in block-generator",Y (9f46d66 coordinator check),H,15
+L045,N,NA,fails,met,fails,N,"validator.ts fnCalls omit validateSNARKCalls; on-chain validateSNARK exists",Y (71c41b2),M,15
