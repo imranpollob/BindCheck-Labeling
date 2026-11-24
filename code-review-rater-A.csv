@@ -46,3 +46,7 @@ L033,N,NA,met,met,fails,N,"old_state.merkle_root must equal a stored, previously
 L014,Y,P2,met,met,met,N,"commitBatch lacks prevStateRoot==parent postStateRoot; proveState PI uses header prevStateRoot",Y (63a2543),H,15
 L049,Y,P3,met,met,met,N,"collectAirdrop raw nullifier key; PLONK verifier reduces public signals mod q",no-fix (f6f5802 not on GitHub),H,12
 L028,N,NA,met,met,fails,N,"[circuit-soundness] circuit.go: (0,0) skipped in valset hash, voting power still summed",Y (8d0d70b),H,20
+L008,Y,P2,met,unclear,met,N,anchor resolution only in execute(); get_logs() path resolves no anchor; events example guest commits no public values; no on-chain consumer of logs in repo,Y (ed2293075d resolves the anchor in ClientExecutor::new),M,20
+L009,N,NA,met,fails,met,N,"Solidity AnchorType {BlockHash, BeaconRoot}; value 2 (Rust Consensus) fails abi-decode / AnchorTypeNotSupported; 0 and 1 align: fail-closed","Y (ed2293075d enum {BlockHash, Timestamp, Slot})",H,10
+L032,N,NA,met,fails,met,N,verifyBeaconAnchor treats id as timestamp; a slot id is always older than the 12*8191 window and reverts ExpiredAnchor: fail-closed,"Y (ed2293075d AnchorType {BlockHash, Timestamp, Slot})",H,12
+L044,N,NA,met,fails,met,N,state_requests never read by the guest at 6ccad760ca and not in public output; nothing consumes it,Y (2c3d21d removes state_requests),H,8

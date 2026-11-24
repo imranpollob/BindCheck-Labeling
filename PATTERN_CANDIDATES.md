@@ -24,7 +24,7 @@ Shapes that fit the GUIDE patterns awkwardly. Review after the FULL families (~9
 
 ## Review after FULL tier (rater A, 2026-11-23; 91 items labeled: 44 Y / 47 N)
 
-Y by pattern: P1 13 · P2 15 · P3 4 · P4 5 · P5 5 · OTHER 2. Only 2 OTHER (L003 parser differential, L027 blob commitment outside the statement), so the five patterns cover the binding class well. **No new pattern proposed.**
+(Counts below are Pass 2 / code-verified labels for the 51 FULL items; the sheet holds Pass 1, which differs only for L027.) Y by pattern: P1 13 · P2 15 · P3 4 · P4 5 · P5 5 · OTHER 2. Only 2 OTHER (L003 parser differential, L027 blob commitment outside the statement), so the five patterns cover the binding class well. **No new pattern proposed.**
 
 Recurring sub-shapes (5+ items or close), all fitting an existing pattern:
 1. **Starting/prior state not bound to the consumer's stored state** (P2): L076, L149, L166, L048, L014. P2's text lists chain ID, address, config, domain, but not "prior state". Ask the author to add it to P2's description.
