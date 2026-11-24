@@ -43,3 +43,4 @@ L048,Y,P2,met,met,met,N,"tallyVotes first batch: 0 === currentTallyCommitment, s
 L043,Y,P1,met,met,met,N,"creditVerifier public signals lack spender/intent",Y (5451977 adds pubIntentHash),H,12
 L022,N,NA,fails,met,met,N,"ethereum-light-client used only by CosmWasm cw-ics08-wasm-eth; native BLS, no ZK",no-fix (no fix_commit in sheet; report 1f242e04),H,15
 L033,N,NA,met,met,fails,N,"old_state.merkle_root must equal a stored, previously verified state hash",Y (1d4fa5a slot ordering),H,15
+L014,Y,P2,met,met,met,N,"commitBatch lacks prevStateRoot==parent postStateRoot; proveState PI uses header prevStateRoot",Y (63a2543),H,15
