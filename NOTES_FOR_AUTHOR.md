@@ -17,4 +17,5 @@ Collected while labeling. Details are in `discussion/<item>.md`.
 - **No ZK in the vulnerable path:** L022 (IBC Eureka Ethereum light client runs natively in CosmWasm).
 - **Finding ID mismatches:** L010/L031/L042 (report uses V-BLMP, sheet V-BML); L193/L180 (report V-RISC0, sheet V-BML); L249 (sheet SCRI-1 = PDF SCRI-3); L039/L040/L123/L173 finding_title parsed as "Fix Status: Resolved".
 - **Duplicate source:** two of the three Panther "reports" are the same PDF.
+- **Duplicate items:** L112 and L121 are the same ToB finding (TOB-IDEN3-1) from the ToB publication and its zkbugs mirror; L260 and L223 likewise (TOB-IDEN3-2). Rater A labeled each pair identically.
 - 12+ FULL items have no fix_commit, so they add no fixed-version negatives.
