@@ -1,0 +1,2 @@
+item_id,binding_code,pattern_code,c1_code,c2_code,c3_code,changed_from_pass1,code_evidence,fix_addresses_flaw,confidence_code,minutes_code
+L001,Y,P2,met,met,met,N,"samm-contracts c2d255d SAMM._checkNProofs: isDKIMPublicKeyHashValid(currentProof.domain,...) with domain not in pubSignals; circuit 240b94a has no domain","partial (6eb3eb9 suffix check lacks @ boundary)",H,15
